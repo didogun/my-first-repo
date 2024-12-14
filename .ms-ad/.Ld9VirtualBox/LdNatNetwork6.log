@@ -1,0 +1,20 @@
+00:00:00.002874 VirtualBox NAT Network 4.1.34 r3445788096 win.amd64 (Jul 26 2022 16:16:15) release log
+00:00:00.002876 Log opened 2024-09-22T05:20:17.266610700Z
+00:00:00.002876 Build Type: release
+00:00:00.002878 OS Product: Windows 10
+00:00:00.002879 OS Release: 10.0.19045
+00:00:00.002879 OS Service Pack: 
+00:00:00.010485 DMI Product Name: Z590 GAMING X
+00:00:00.013507 DMI Product Version: Default string
+00:00:00.013515 Firmware type: UEFI
+00:00:00.013735 Secure Boot: VERR_PRIVILEGE_NOT_HELD
+00:00:00.013745 Host RAM: 65401MB (63.8GB) total, 40193MB (39.2GB) available
+00:00:00.013748 Executable: C:\Program Files\ldplayer9box\VBoxNetNAT.exe
+00:00:00.013749 Process ID: 58048
+00:00:00.013749 Package type: WINDOWS_64BITS_GENERIC (OSE)
+00:00:00.018195 SUP: Opened Ld9VMMR0.r0 (C:\Program Files\ldplayer9box\Ld9VMMR0.r0) at 0xXXXXXXXXXXXXXXXX loaded by the native ring-0 loader.
+00:00:00.018207 SUP: windbg> .reload /f C:\Program Files\ldplayer9box\Ld9VMMR0.r0=0xXXXXXXXXXXXXXXXX
+00:00:00.020045 netif NT0: mac 52:54:00:12:35:00
+00:00:00.020058 netif NT0: inet 172.16.1.1 netmask 255.255.255.0
+00:00:00.020062 netif NT0: inet6 fe80::5054:ff:fe12:3500
+00:00:00.020069 netif NT0: inet6 fd17:625c:f037:1001::1

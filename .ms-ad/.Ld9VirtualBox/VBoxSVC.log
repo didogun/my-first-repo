@@ -1,0 +1,73 @@
+00:00:00.007848 main     VirtualBox COM Server 4.1.34 r986073288 win.amd64 (Jul 26 2022 16:16:15) release log
+00:00:00.007854 main     Log opened 2024-11-04T03:13:00.855334800Z
+00:00:00.007855 main     Build Type: release
+00:00:00.007861 main     OS Product: Windows 10
+00:00:00.007862 main     OS Release: 10.0.19045
+00:00:00.007863 main     OS Service Pack: 
+00:00:00.050343 main     DMI Product Name: Z590 GAMING X
+00:00:00.061188 main     DMI Product Version: Default string
+00:00:00.061199 main     Firmware type: UEFI
+00:00:00.061556 main     Secure Boot: VERR_PRIVILEGE_NOT_HELD
+00:00:00.062168 main     Host RAM: 65401MB (63.8GB) total, 46452MB (45.3GB) available
+00:00:00.062175 main     Executable: C:\Program Files\ldplayer9box\Ld9BoxSVC.exe
+00:00:00.062175 main     Process ID: 27684
+00:00:00.062176 main     Package type: WINDOWS_64BITS_GENERIC (OSE)
+00:00:00.067651          VirtualBox: object creation starts
+00:00:00.068817          Home directory: 'C:\Users\mr.dildogun\.Ld9VirtualBox'
+00:00:00.069106          Installed Drivers:
+00:00:00.085290          USBLibInit: USB Service not found
+00:00:00.173401          netIfGetBoundAdapters: could not find either 'oracle_VBoxNetLwf' or 'sun_VBoxNetFlt' components (0x1)
+00:00:00.178696          HostDnsMonitor: initializing
+00:00:00.184130          HostDnsMonitor: updating information
+00:00:00.184634          HostDnsMonitor: old information
+00:00:00.184662            no server entries
+00:00:00.184670            no domain set
+00:00:00.184673            no search string entries
+00:00:00.184675          HostDnsMonitor: new information
+00:00:00.184678            server 1: 192.168.1.254
+00:00:00.184691            no domain set
+00:00:00.184698            no search string entries
+00:00:00.186746          VD: VDInit finished with VINF_SUCCESS
+00:00:00.187957          ERROR [COM]: aRC=E_FAIL (0x80004005) aIID={20191216-929c-40e8-bf16-fea557cd8e7e} aComponent={SystemPropertiesWrap} aText={Cannot determine default Guest Additions ISO location. Most likely they are not available}, preserve=false aResultDetail=0
+00:00:00.190051          VirtualBox: object created
+00:00:00.222393          ERROR [COM]: aRC=VBOX_E_OBJECT_NOT_FOUND (0x80bb0001) aIID={20191216-e254-4e5b-a1f2-011cf991c38d} aComponent={VirtualBoxWrap} aText={Could not find a registered machine with UUID {20160302-aaaa-aaaa-0eee-000000000000}}, preserve=false aResultDetail=0
+00:00:00.235946          Loading settings file "C:\LDPlayer\LDPlayer9\vms\leidian0\leidian.vbox" with version "1.18-windows"
+00:00:00.241562          Saving settings file "C:\Users\mr.dildogun\.Ld9VirtualBox\VirtualBox.xml" with version "1.12-windows"
+00:00:00.252158          ERROR [COM]: aRC=VBOX_E_OBJECT_NOT_FOUND (0x80bb0001) aIID={20191216-b5bb-4316-a900-5eb28d3413df} aComponent={SessionMachine} aText={Could not find a shared folder named 'Applications'}, preserve=false aResultDetail=0
+00:00:00.253083          ERROR [COM]: aRC=VBOX_E_OBJECT_NOT_FOUND (0x80bb0001) aIID={20191216-b5bb-4316-a900-5eb28d3413df} aComponent={SessionMachine} aText={Could not find a shared folder named 'Bug'}, preserve=false aResultDetail=0
+00:00:00.253456          ERROR [COM]: aRC=VBOX_E_OBJECT_NOT_FOUND (0x80bb0001) aIID={20191216-b5bb-4316-a900-5eb28d3413df} aComponent={SessionMachine} aText={Could not find a shared folder named 'Misc'}, preserve=false aResultDetail=0
+00:00:00.253830          ERROR [COM]: aRC=VBOX_E_OBJECT_NOT_FOUND (0x80bb0001) aIID={20191216-b5bb-4316-a900-5eb28d3413df} aComponent={SessionMachine} aText={Could not find a shared folder named 'Pictures'}, preserve=false aResultDetail=0
+00:00:00.265233          netIfGetBoundAdapters: could not find either 'oracle_VBoxNetLwf' or 'sun_VBoxNetFlt' components (0x1)
+00:00:00.270152          Saving settings file "C:\Users\mr.dildogun\.Ld9VirtualBox\VirtualBox.xml" with version "1.14-windows"
+00:00:00.270864          Saving settings file "C:\Users\mr.dildogun\.Ld9VirtualBox\VirtualBox.xml" with version "1.14-windows"
+00:00:00.271219          Saving settings file "C:\Users\mr.dildogun\.Ld9VirtualBox\VirtualBox.xml" with version "1.14-windows"
+00:00:00.274798          ERROR [COM]: aRC=VBOX_E_OBJECT_NOT_FOUND (0x80bb0001) aIID={20191216-b5bb-4316-a900-5eb28d3413df} aComponent={SessionMachine} aText={No storage device attached to device slot 0 on port 0 of controller 'VirtIO'}, preserve=false aResultDetail=0
+00:00:00.277278          ERROR [COM]: aRC=VBOX_E_OBJECT_NOT_FOUND (0x80bb0001) aIID={20191216-b5bb-4316-a900-5eb28d3413df} aComponent={SessionMachine} aText={No storage device attached to device slot 0 on port 2 of controller 'VirtIO'}, preserve=false aResultDetail=0
+00:00:00.341903          Saving settings file "C:\Users\mr.dildogun\.Ld9VirtualBox\VirtualBox.xml" with version "1.14-windows"
+00:00:00.347853          Saving settings file "C:\LDPlayer\LDPlayer9\vms\leidian0\leidian.vbox" with version "1.18-windows"
+00:00:00.458323          Launched VM: 18253696 pid: 48960 (0xbf40) frontend: headless name: leidian0
+00:00:00.947690          VM 'leidian0' starts using NAT network 'LdNatNetwork0'
+00:00:00.950381          Saving settings file "C:\Users\mr.dildogun\.Ld9VirtualBox\VirtualBox.xml" with version "1.14-windows"
+00:00:00.950531          Saving settings file "C:\Users\mr.dildogun\.Ld9VirtualBox\VirtualBox.xml" with version "1.14-windows"
+00:00:00.950645          Saving settings file "C:\Users\mr.dildogun\.Ld9VirtualBox\VirtualBox.xml" with version "1.14-windows"
+00:00:00.950757          Saving settings file "C:\Users\mr.dildogun\.Ld9VirtualBox\VirtualBox.xml" with version "1.14-windows"
+00:00:00.950861          Saving settings file "C:\Users\mr.dildogun\.Ld9VirtualBox\VirtualBox.xml" with version "1.14-windows"
+00:00:00.950905          HostDnsMonitorProxy::GetDomainName: no domain set
+00:00:00.950921          ERROR [COM]: aRC=VBOX_E_OBJECT_NOT_FOUND (0x80bb0001) aIID={20191216-f4c4-4020-a185-0d2881bcfa8b} aComponent={DHCPGlobalConfigWrap} aText={DHCP option 15 was not found}, preserve=false aResultDetail=0
+00:00:00.950946          HostDnsMonitorProxy::GetNameServers:
+00:00:00.950949            name server 1: 192.168.1.254
+00:00:00.951027          Saving settings file "C:\Users\mr.dildogun\.Ld9VirtualBox\VirtualBox.xml" with version "1.14-windows"
+00:00:00.951139          Saving settings file "C:\Users\mr.dildogun\.Ld9VirtualBox\VirtualBox.xml" with version "1.14-windows"
+00:00:00.967436          NetworkServiceRunning: started 'VBoxNetDHCP.exe', pid 00009e2c
+00:00:00.974931          NetworkServiceRunning: started 'VBoxNetNAT.exe', pid 00005520
+00:00:00.974984          Started NAT network 'LdNatNetwork0'
+00:00:01.196460          HostDnsMonitorProxy::GetNameServers:
+00:00:01.196475            name server 1: 192.168.1.254
+00:00:01.509979          WARNING [COM]: aRC=E_FAIL (0x80004005) aIID={20191216-5fdc-4aba-aff5-6a39bbd7c38b} aComponent={HostWrap} aText={Could not load the Host USB Proxy Service (VERR_FILE_NOT_FOUND). The service might not be installed on the host computer}, preserve=true  aResultDetail=0
+00:00:32.800258          ERROR [COM]: aRC=VBOX_E_INVALID_OBJECT_STATE (0x80bb0007) aIID={20191216-b5bb-4316-a900-5eb28d3413df} aComponent={MachineWrap} aText={The given session is busy}, preserve=false aResultDetail=0
+00:00:32.804809          Saving settings file "C:\LDPlayer\LDPlayer9\vms\leidian0\leidian.vbox" with version "1.18-windows"
+00:00:35.717248          Saving settings file "C:\LDPlayer\LDPlayer9\vms\leidian0\leidian.vbox" with version "1.18-windows"
+00:00:35.947445 Watcher  VM 'leidian0' stops using NAT network 'LdNatNetwork0'
+00:00:35.949124 Watcher  NetworkServiceRunning: killing VBoxNetDHCP.exe, pid 00009e2c...
+00:00:35.965570 Watcher  NetworkServiceRunning: VBoxNetNAT.exe (pid 00005520) stopped: iStatus=0 enmReason=1
+00:00:35.965606 Watcher  Stopped NAT network 'LdNatNetwork0'

@@ -1,0 +1,22 @@
+00:00:00.002130 VirtualBox DHCP Server 4.1.34 r1579636408 win.amd64 (Jul 26 2022 16:16:05) release log
+00:00:00.002133 Log opened 2024-09-22T06:15:51.386027400Z
+00:00:00.002133 Build Type: release
+00:00:00.002137 OS Product: Windows 10
+00:00:00.002138 OS Release: 10.0.19045
+00:00:00.002139 OS Service Pack: 
+00:00:00.013330 DMI Product Name: Z590 GAMING X
+00:00:00.021368 DMI Product Version: Default string
+00:00:00.021374 Firmware type: UEFI
+00:00:00.021586 Secure Boot: VERR_PRIVILEGE_NOT_HELD
+00:00:00.021594 Host RAM: 65401MB (63.8GB) total, 32645MB (31.8GB) available
+00:00:00.021596 Executable: C:\Program Files\ldplayer9box\VBoxNetDHCP.exe
+00:00:00.021597 Process ID: 32468
+00:00:00.021597 Package type: WINDOWS_64BITS_GENERIC (OSE)
+00:00:00.021670 --config:  LdNatNetwork3
+00:00:00.021676 --comment: LdNatNetwork3
+00:00:00.023022 IP address:   172.16.1.3/24
+00:00:00.023029 Address pool: 172.16.1.4 - 172.16.1.254
+00:00:00.023048 MAC address is not specified: will use generated MAC 08:00:27:be:4f:61
+00:00:00.023052 Db::i_enterFixedAddressAssignment: 08:00:27:be:4f:61: 172.16.1.3
+00:00:00.023056 loading leases from C:\Users\mr.dildogun\.Ld9VirtualBox\LdNatNetwork3-Dhcpd.leases
+00:00:00.023126 > LOAD: EXPIRED lease 172.16.1.4 to [01:00:db:75:1b:10:f8] (00:db:75:1b:10:f8), acked, valid from 2024-09-22T06:13:05Z for 600s until 2024-09-22T06:23:05Z
